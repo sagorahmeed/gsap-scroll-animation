@@ -23,6 +23,7 @@
     width: 100%;
     display: flex;
     position: relative;
+    overflow: hidden;
 }
 
 .jl-column {
@@ -81,7 +82,7 @@
     width: 100%;
     z-index: 22;
     padding-bottom: 20px;
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 .scroll-main-header {
